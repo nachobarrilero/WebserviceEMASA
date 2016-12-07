@@ -10,5 +10,7 @@ http://crunchify.com/create-very-simple-jersey-rest-service-and-send-json-data-f
 
 
 URL del API:
+
 http://localhost:8080/WebserviceEMASA/api/verify
+
 http://localhost:8080/WebserviceEMASA/api/proveedor/888
